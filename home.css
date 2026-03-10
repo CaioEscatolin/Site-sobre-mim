@@ -1,0 +1,131 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    line-height: 2;
+    background-color: rgb(233, 233, 233);
+}
+
+/* HEADER */
+
+
+header {
+    background-color: rgb(221, 221, 221);
+    height: 200px;
+}
+
+header h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+header nav {
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+    margin-top: 20px;
+}
+
+header nav a {
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #000000;
+}
+
+header nav a:hover {
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+a.initial-box {
+    border-radius: 10px;
+    padding: 8px 16px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+
+/* SECTION-LINHA-DO-TEMPO */
+
+
+section.linha-do-tempo {
+    background-color: rgb(221, 221, 221);
+    height: 250px;
+}
+
+section.linha-do-tempo p {
+    margin-left: 700px;
+    color:rgb(0, 0, 0);
+}
+
+section.linha-do-tempo h2 {
+    text-align: center;
+    margin-top: 5px;
+    color:rgb(0, 0, 0);
+}
+
+section.linha-do-tempo nav {
+    display: flex;
+    gap: 175px;
+    justify-content: center;
+}
+
+section.linha-do-tempo a {
+    text-decoration: none;
+    background-color: black;
+    color: #ffffff;
+    border: 2px solid #050505;
+}
+
+section.linha-do-tempo a:hover {
+    cursor: pointer;
+    background-color: rgb(0, 0, 0);
+    color: white;
+}
+
+a.box {
+    border-radius: 10px;
+    padding: 8px 16px;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+/* SECTION-CONTATO */
+
+
+section.contato {
+    background-color: rgb(221, 221, 221);
+    height: 200px;
+
+}
+
+section.contato h3 {
+    margin-left: 700px;
+    margin-top: 5px;
+    color:rgb(0, 0, 0);
+}
+
+section.contato div {
+    margin-left: 720px;
+    margin-top: 30px;
+}
+
+section.contato li {
+    margin-top: 20px;
+    color:rgb(0, 0, 0);
+}
+
+
+/* FOOTER */
+
+footer {
+    background-color: rgb(221, 221, 221);
+    height: 100px;
+}
+
+footer p {
+    margin-left: 700px;
+    margin-top: 0px;
+    color:rgb(0, 0, 0);
+}

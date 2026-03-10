@@ -1,0 +1,126 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    line-height: 2;
+    background-color: rgb(0, 0, 0);
+}
+
+
+/* HEADER */
+
+header {
+    background-color:  rgb(0, 0, 0);
+}
+
+header h1 {
+    text-align: center;
+    color: white;
+}
+
+/* SECTION-FUTEBOL */
+
+section.futebol-foto {
+    background-color:  rgb(0, 0, 0);
+}
+
+section.futebol-foto h2 {
+    color: white;
+    text-align: center;
+}
+
+section.futebol-foto figure {
+    width: 700px;
+    height: 500px;
+    margin-left: 610px;
+    object-fit: cover;
+}
+
+/* SECTION-VIDEOGAME */
+
+section.videogame-foto {
+    background-color:  rgb(8, 172, 90);
+}
+
+section.videogame-foto h2 {
+    text-align: center;
+}
+
+section.videogame-foto figure {
+    width: 700px;
+    height: 600px;
+    margin-left: 610px;
+    object-fit: cover;
+}
+
+
+/* SECTION-TOCAR */
+
+
+section.tocar-foto {
+    background-color:  rgb(177, 118, 9);
+}
+
+section.tocar-foto h2 {
+    text-align: center;
+}
+
+section.tocar-foto figure {
+    width: 700px;
+    height: 500px;
+    margin-left: 610px;
+    object-fit: cover;
+}
+
+/* SECTION-ESTUDAR */
+
+section.estudar-foto {
+    background-color:  rgb(5, 5, 5);
+}
+
+section.estudar-foto h2 {
+    color: white;
+    text-align: center;
+}
+
+section.estudar-foto figure {
+    width: 700px;
+    height: 800px;
+    margin-left: 610px; 
+    object-fit: cover;
+}
+
+/* SECTION-TECNOLOGIA */
+
+
+section.tecnologia-foto {
+    background-color:  rgb(47, 112, 138);
+}
+
+section.tecnologia-foto h2 {
+    color: white;
+    text-align: center;
+}
+
+section.tecnologia-foto figure {
+    width: 700px;
+    height: 500px;
+    margin-left: 610px;
+    object-fit: cover;
+}
+
+/* SECTION-AVENTURA */
+
+section.aventura-foto {
+    background-color:  rgb(202, 239, 241);
+}
+
+section.aventura-foto h2 {
+    text-align: center;
+}
+
+section.aventura-foto figure {
+    width: 700px;
+    height: 350px;
+    margin-left: 610px;
+    object-fit: cover;
+}

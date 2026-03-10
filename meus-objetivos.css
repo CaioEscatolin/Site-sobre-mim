@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    line-height: 2;
+    background-color: rgb(233, 233, 233);
+}
+
+/* HEADER */
+
+header {
+    background-color: rgb(221, 221, 221);
+    height: 100px;
+    text-align: center;
+}
+
+/* SECTION-OBJETIVOS */
+
+section.objetivos {
+    background-color: rgb(221, 221, 221);
+    height: 200px;
+}
+
+
+section.objetivos p {
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+/* SECTION-PASSO-A-PASSO */
+
+section.passo-a-passo {
+    background-color: rgb(221, 221, 221);
+    height: 350px;
+}
+
+section.passo-a-passo h2 {
+    text-align: center;
+    margin-top: 5px;
+}
+
+section.passo-a-passo ol {
+    margin-left: 680px;
+    margin-top: 50px;
+}
+
+section.passo-a-passo ol li {
+    margin-bottom: 15px;
+}
+
+
+/* SECTION-DIVISAO-CRONOGRAMA */
+
+section.divisao-cronograma {
+    background-color: rgb(221, 221, 221);
+    height: 400px;
+}
+
+section.divisao-cronograma h3 {
+    text-align: center;
+    margin-top: 5px;
+}
+
+section.divisao-cronograma ul {
+    margin-left: 680px;
+    margin-top: 50px;
+}
